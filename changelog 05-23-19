@@ -34,7 +34,7 @@ Server:
 	- minimum land claim set to 0
 	- Players now have seperate inventories per world
 	- Added VoteURLs to Voting sites. Type /vote to bring up GUI
-	
+	- Removed Multiverse Prefixes
 Quick To Do:
 	- Finalize Setup for VotingPlugin
 	- Create Donation Packages
