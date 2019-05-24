@@ -1,6 +1,0 @@
-Plugins:
-    - BattleArena updated to the newest version
-Perms:
-    - added "/arena duel <player>" command for default players. Not tested.
-Server:
-    - Created "frostdm" Deathmatch gamemode. Game still has default settings. Not tested with players.

@@ -1,0 +1,45 @@
+Plugins:
+	Added:
+		- PVP Arena 1.13.9
+		- CrazyAuction
+		- MarriageMaster
+		- ChatColor
+		- Multiverse-Inventories
+		- Quests
+		- Hyperlinks
+		- AutoRank
+		- Statz
+	Removed:
+		- BattleArena 3.9.11.7 (plugin was shit)
+		- ChatManager (it was breaking messaging)
+		- AcceptTheRules
+Perms:
+	Added:
+		Default:
+			- Marry user commands for Default
+			- added /warp shop to Default group	
+			- CrazyAuction user commands for Default
+		Mod:
+			- multiverse info command added to Mod
+		SeniorMod:
+			- CrazyAuction admin commands for SeniorMod
+			- Marry admin commands for SeniorMod
+			- ChatColor admin commands for SeniorMod		
+	Removed:
+		- removed /<type> duel <player> from groupmanager
+Server:
+	- /tv day now has a 10,800 second cool down
+	- added /warp Creative sign at /warp Hub	
+	- Creative world generated	
+	- minimum land claim set to 0
+	- Players now have seperate inventories per world
+	- Added VoteURLs to Voting sites. Type /vote to bring up GUI
+	
+Quick To Do:
+	- Finalize Setup for VotingPlugin
+	- Create Donation Packages
+	- Purchase ProCosmetics for package implementation
+	- Create Donor Rank
+	- Create Official Creative world with plots
+	- Finish Cathedral Build (Enders)
+	- Finish Arena Hub Build (Spartan and Gerg)
